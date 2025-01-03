@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hola, soy Edinson 👋
 
-<!--
-**xedinsonx/xedinsonx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador apasionado por la Programacion y me encanta trabajar en de Desarrollo de Proyectos . Aquí hay algunos de mis proyectos destacados:
 
-Here are some ideas to get you started:
+## Proyectos Destacados
+- **[Proyecto 1](enlace)**: Descripción breve del proyecto.
+- **[Proyecto 2](enlace)**: Descripción breve del proyecto.
+- **[Proyecto 3](enlace)**: Descripción breve del proyecto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+- Lenguajes de Programación:  Java , .Net , Php
+- Frameworks y Librerías: React, Angular, Spring Boot
+- Otros: Docker, Kubernetes, CI/CD
+
+## Contacto
+- Linkedin: https://www.linkedin.com/in/edinsonvillon
+- Email: edinson.villonespinoza@hotmail.com
